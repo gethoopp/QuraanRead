@@ -6,4 +6,4 @@
 
   Adios , !buenas tardes!
 
-![image.png]( {https://github.com/gethoopp/QuraanRead/blob/main/DOc/2.jpg} )
+![image.jpg]( {https://github.com/gethoopp/QuraanRead/blob/main/DOc/2.jpg} )
