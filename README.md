@@ -1,16 +1,7 @@
-# quraan_read
+- 👋 Hi, I’m @gethoopp aka Haliim pamungkas H.S i'm from indonesia 
+- 👀 I’m currently interested in world of mobile programming especially use a framework from google that its flutter 
+- 🌱 I’m currently learning Golang , and usually also use linux as a second os and also learn  dart and flutter and i'm studied in departement of science techonology in malang,indonesia
+- 📫 if you wanna contact or just a talk , you can DM me on https://www.instagram.com/haliim.pamungkas/
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Adios , !buenas tardes!
